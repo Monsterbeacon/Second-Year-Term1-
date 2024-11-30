@@ -1,3 +1,3 @@
 The Battery Voltage Indicator is a cost-effective circuit designed to monitor and display battery voltage levels using Zener diodes and LEDs. It prevents overcharging and excessive discharge, ensuring battery longevity and reliability. The Electronic Fuse is an automatic safety device that protects circuits from overcurrent by redirecting unsafe currents to an alternate path, using components like Op-Amps, BJTs, and relays. Both projects are simple, efficient, and customizable for various applications. Future enhancements include adding digital displays for precise voltage readings in the indicator and improving the fuse's response time with microcontroller-based features. 
 
-![Video Demo](https://www.youtube.com/watch?v=example)
+Video demonstration can be found at  
